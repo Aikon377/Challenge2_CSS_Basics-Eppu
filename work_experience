@@ -9,7 +9,7 @@
   </head>
   <body>
     <main>
-            <li><menu href="index.html"title="Homepage">HTML syntax</a></li>
+            <li><a href="index.html"title="Homepage">HTML syntax</a></li>
           <!-- ****************  WORK EXPERIENCE  ******************** -->
       <section class="work-experience">
         <div class="content-wrap item-details divider">
